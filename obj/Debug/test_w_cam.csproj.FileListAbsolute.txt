@@ -1,0 +1,17 @@
+C:\Users\Vlad\source\repos\test_w_cam\bin\Debug\test_w_cam.exe.config
+C:\Users\Vlad\source\repos\test_w_cam\bin\Debug\test_w_cam.exe
+C:\Users\Vlad\source\repos\test_w_cam\bin\Debug\test_w_cam.pdb
+C:\Users\Vlad\source\repos\test_w_cam\bin\Debug\DirectShowLib.dll
+C:\Users\Vlad\source\repos\test_w_cam\bin\Debug\Emgu.CV.Platform.NetStandard.dll
+C:\Users\Vlad\source\repos\test_w_cam\bin\Debug\DirectShowLib.pdb
+C:\Users\Vlad\source\repos\test_w_cam\obj\Debug\test_w_cam.csprojAssemblyReference.cache
+C:\Users\Vlad\source\repos\test_w_cam\obj\Debug\test_w_cam.Form1.resources
+C:\Users\Vlad\source\repos\test_w_cam\obj\Debug\test_w_cam.Properties.Resources.resources
+C:\Users\Vlad\source\repos\test_w_cam\obj\Debug\test_w_cam.csproj.GenerateResource.cache
+C:\Users\Vlad\source\repos\test_w_cam\obj\Debug\test_w_cam.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\test_w_cam\obj\Debug\test_w_cam.csproj.CopyComplete
+C:\Users\Vlad\source\repos\test_w_cam\obj\Debug\test_w_cam.exe
+C:\Users\Vlad\source\repos\test_w_cam\obj\Debug\test_w_cam.pdb
+C:\Users\Vlad\source\repos\test_w_cam\bin\Debug\Emgu.CV.Bitmap.dll
+C:\Users\Vlad\source\repos\test_w_cam\bin\Debug\Emgu.CV.Platform.NetFramework.dll
+C:\Users\Vlad\source\repos\test_w_cam\bin\Debug\System.Drawing.Common.dll
